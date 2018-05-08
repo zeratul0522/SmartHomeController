@@ -41,6 +41,8 @@ public class MessageListener {
 //		}
 	}
 
+	
+
 	public static void putMessageWhichChanged(JSONObject jsonobject, JSONObject message)
     {
 //        if(jsonobject.get("entity_id").toString().equals(entity_id)) {
